@@ -17,7 +17,7 @@ It can **READ**, **WRITE** (insert or update), **DELETE** and **PRINT** any reco
 
 The code is very simple, so do not I think it needs for further explanation.
 But here is a simpe example for usage: ( there is not commit nor rollback in the object!)
-```plsql
+```sql
     declare
 
         -- USERS is the table name and TOTHF is the PK
